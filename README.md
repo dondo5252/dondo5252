@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello! I'm David Arredondo 👋
 
 <!--
 **dondo5252/dondo5252** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
