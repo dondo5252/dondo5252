@@ -2,15 +2,15 @@
 [![Linkedin: LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/caleb-kim0510/)](https://www.linkedin.com/in/davidcarredondo/)
 
 
-<li>
+<ul>
 
-<ul>📍 Based in Roseville, CA</ul>
-<ul>🙋🏻‍♂️ he/him/his</ul>
-</li>
+<li>📍 Based in Roseville, CA</li>
+<li>🙋🏻‍♂️ he/him/his</li>
+</ul>
 
 
 <h4>Languages & Tools</h4>
-[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)] 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 
 <!--
 **dondo5252/dondo5252** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
