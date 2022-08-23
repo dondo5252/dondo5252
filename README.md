@@ -10,7 +10,7 @@
 
 
 <h4>Languages & Tools</h4>
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ]
 
 <!--
 **dondo5252/dondo5252** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
